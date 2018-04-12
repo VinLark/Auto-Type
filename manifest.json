@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Auto Type",
-  "description": "Automatically Type On typing.com",
-  "version": "0.5",
+  "name": "Auto Type-V",
+  "description": "God Mode On Typing.com",
+  "version": "1.9",
   "content_scripts": [{
     "matches": ["https://www.typing.com/student/*"],
     "js": ["content.js"]
