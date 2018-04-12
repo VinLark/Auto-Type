@@ -1,7 +1,7 @@
 var maxAccuracy = 100
-var minAccuracy = 50
-var maxSpeed = 1000
-var minSpeed = 1
+var minAccuracy = 75
+var maxSpeed = 100
+var minSpeed = 25
 
 $(document).ready(function() {
   $('[data-toggle="tooltip"]').tooltip();
