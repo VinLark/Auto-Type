@@ -75,10 +75,6 @@ function start() {
   }, function() {});
 }
 
-// Google Analytics
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-79436930-3']);
-_gaq.push(['_trackPageview']);
 
 (function() {
   var ga = document.createElement('script');
